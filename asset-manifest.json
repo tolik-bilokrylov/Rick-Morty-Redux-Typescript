@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Rick-Morty-Redux-Typescript/static/css/main.d87cbb72.chunk.css",
+    "main.js": "/Rick-Morty-Redux-Typescript/static/js/main.4f7bdfef.chunk.js",
+    "main.js.map": "/Rick-Morty-Redux-Typescript/static/js/main.4f7bdfef.chunk.js.map",
+    "runtime-main.js": "/Rick-Morty-Redux-Typescript/static/js/runtime-main.bcf81244.js",
+    "runtime-main.js.map": "/Rick-Morty-Redux-Typescript/static/js/runtime-main.bcf81244.js.map",
+    "static/js/2.437bc347.chunk.js": "/Rick-Morty-Redux-Typescript/static/js/2.437bc347.chunk.js",
+    "static/js/2.437bc347.chunk.js.map": "/Rick-Morty-Redux-Typescript/static/js/2.437bc347.chunk.js.map",
+    "index.html": "/Rick-Morty-Redux-Typescript/index.html",
+    "static/css/main.d87cbb72.chunk.css.map": "/Rick-Morty-Redux-Typescript/static/css/main.d87cbb72.chunk.css.map",
+    "static/js/2.437bc347.chunk.js.LICENSE.txt": "/Rick-Morty-Redux-Typescript/static/js/2.437bc347.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcf81244.js",
+    "static/js/2.437bc347.chunk.js",
+    "static/css/main.d87cbb72.chunk.css",
+    "static/js/main.4f7bdfef.chunk.js"
+  ]
+}
